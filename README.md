@@ -1,0 +1,2 @@
+# appsflyer-cordova-plugin
+ 
